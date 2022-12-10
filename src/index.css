@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#content{
+
+    width: 700px; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center;
+
+}
+
+#icons{
+
+    justify-content: center;
+    color:rgb(249, 216, 6);
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    justify-content: center;
+}
+
+header {
+    margin-top: 1%;
+}
+
+h1{
+    font-size: xx-large;
+    color:cornflowerblue;
+}
+
+span{
+    color: cadetblue;
+}
+
+p{
+    font-size: large;
+    color: rgb(87, 87, 87);
+}
+
+#cv{
+    justify-content: center;
+}
